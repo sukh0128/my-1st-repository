@@ -50,6 +50,11 @@ namespace ConsoleApp2
                 {
                     Console.Write(odds[a]);
                 }
+
+                for(int s=0; s<10; s++)
+                {
+                    Console.WriteLine(s);
+                }
                 Console.ReadLine();
             }
             }
